@@ -27,6 +27,11 @@ or intermediate diagnostic text may remain in auxiliary helper sections. This
 does not affect execution. The main verification steps are marked by section
 headings in the corresponding notebooks.
 
+GitHub may occasionally fail to render large notebooks or notebooks with long
+outputs. This does not affect the artifact itself. If the online preview does
+not render correctly, please download the `.ipynb` file and open it locally with
+the SageMath Jupyter kernel.
+
 ## Files for Section 3.1
 
 ### `sec3_1_parametric_macaulay_example.ipynb`
